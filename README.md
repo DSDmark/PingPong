@@ -29,6 +29,10 @@ Once you are done playing you can close the tab in your browser to quit the game
 
 ---
 
+## Try Out Ping Pong Demo
+
+<a href="https://dsdmark.github.io/PingPong/" alt="Ping Pong Demo">Ping Pong Demo</a>
+
 </div>
 
 ### Ping Pong
