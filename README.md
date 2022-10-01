@@ -1,5 +1,11 @@
 <div align="center">
 
+![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/DSDmark/PingPong)
+![GitHub](https://img.shields.io/github/license/DSDmark/PingPong)
+![GitHub language count](https://img.shields.io/github/languages/count/DSDmark/PingPong)
+![GitHub last commit](https://img.shields.io/github/last-commit/DSDmark/PingPong)
+[![Deploy static content to Pages](https://github.com/DSDmark/PingPong/actions/workflows/static.yml/badge.svg)](https://github.com/DSDmark/PingPong/actions/workflows/static.yml)
+
 # AS੯ames Collection
 
 <div>
